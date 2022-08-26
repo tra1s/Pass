@@ -1,2 +1,2 @@
-# Pass
+# Passwg
 a password generator
